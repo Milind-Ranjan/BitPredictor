@@ -21,7 +21,6 @@ To run this project locally:
 **Clone the repository**:
    ```bash
    git clone https://github.com/Milind-Ranjan/bitcoin-predictor.git
-   cd bitcoin-predictor
    ```
 
 ## Usage
